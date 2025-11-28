@@ -1,0 +1,16 @@
+# Dépendances pour l'application de messagerie sécurisée
+# ====================================================
+
+# Interface graphique moderne
+customtkinter>=5.2.0
+
+# Cryptographie
+cryptography>=41.0.0
+
+# Base de données (inclus avec Python)
+# sqlite3 est inclus dans la bibliothèque standard Python
+
+# Utilitaires optionnels pour le développement
+# pytest>=7.0.0  # Pour les tests unitaires
+# black>=23.0.0  # Pour le formatage du code
+# flake8>=6.0.0  # Pour la vérification du style
